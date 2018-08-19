@@ -1,0 +1,3 @@
+'The ' + spam[-1] + 'is afraid of the '+ spam[-3] +'.'
+'The ' + spam[-1] + 'is afraid of the '+ spam[-3] +'.'
+'The ' spam[-1] + ' is afraid of the ' + spam[-3] +'.'
